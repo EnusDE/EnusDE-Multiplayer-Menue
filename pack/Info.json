@@ -1,0 +1,12 @@
+{
+  "identifier": "enusde/multiplayer-browser",
+  "version": "0.1.0",
+  "name": "EnusDE Multiplayer Browser",
+  "author": "EnusDE",
+  "description": "Adds local search, sorting, and automatic refresh to Join Multiplayer.",
+  "scope": "optional",
+  "assemblies": ["EnusDE.MultiplayerBrowser.dll"],
+  "dependencies": {
+    "required": ["rr/game ^0.6.2"]
+  }
+}
